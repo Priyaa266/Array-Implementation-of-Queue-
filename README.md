@@ -1,4 +1,4 @@
-'''python 
+```python 
 # Array-Implementation-of-Queue-
 To Write a python program to implement the operations of queue using array.
 SIZE = 5  
